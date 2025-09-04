@@ -1,0 +1,7 @@
+{
+  "name": "Cartão Digital",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
